@@ -2,6 +2,6 @@
 Only one shell that is small in size but has a lot of features.
 
 ### Donate
-If you want to donate, you can donate via bitcoin.
+If you want to donate, you can donate via bitcoin.<br>
 BTC Address : 378nEbXr5TyUcfaJiJG8uBDnNxKbs7KEre
 
